@@ -1,0 +1,19 @@
+.color {
+    background-color:#e87d88;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#unique {
+    color: #3399ff;
+    font-size: 36px;
+}
+
+.color.only {
+    font-size: 36px;
+}
+
+#number-four {
+    background-color: #66ff66;
+    font-size: 24px;
+    font-weight: bold;
+}
